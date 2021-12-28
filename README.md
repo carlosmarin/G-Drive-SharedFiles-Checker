@@ -7,7 +7,7 @@ It returns you a Spreadsheet with the files and theirs access rights alongside t
 ## How to use
 
 - Connect to your google drive account
-- Create a new spreadsheet (optional: rename it)
+- Create a new spreadsheet (optional: rename it) - https://sheets.new
 - Go to "Tools -> Script Editor"
 - Copy the content of the file checker.js into the editor
 - Save and Run
